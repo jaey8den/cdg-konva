@@ -1,3 +1,3 @@
 // Patterns removed.
 
-// Visit thelilipath.com to try out the generator.
+// Visit https://thelilipath.com/crochet-diagram-generator/ to try out the generator.

@@ -12,4 +12,4 @@ This project was commissioned to me by a friend who wants it on her website. I c
 
 I have uploaded it here as part of my portfolio. Thanks for understanding!
 
-You can find the generator at [TheLILIPath](https://thelilipath.com).
+You can find the generator at [TheLILIPath](https://thelilipath.com/crochet-diagram-generator/).
